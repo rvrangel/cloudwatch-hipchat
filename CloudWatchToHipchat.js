@@ -1,5 +1,6 @@
 var http = require('https');
 
+// update with your hipchat data
 var hipchatToken = 'xxxxxxxxxxxxxxxxxxx';
 var hipchatRoom = '1111111';
 
